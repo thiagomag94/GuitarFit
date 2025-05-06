@@ -49,12 +49,12 @@ Recomendado ter o Expo Go instalado no celular para testar com QR Code.
 
 Sinta-se à vontade para contribuir:
 
-  -  *Faça um fork
+ -  Faça um fork
 
-  -  *Crie sua branch (git checkout -b feature/sua-feature)
+ -  Crie sua branch (git checkout -b feature/sua-feature)
 
-  -  *Commit suas alterações (git commit -m 'feat: nova feature')
+ -  Commit suas alterações (git commit -m 'feat: nova feature')
 
-  -  *Push para sua branch (git push origin feature/sua-feature)
+ -  Push para sua branch (git push origin feature/sua-feature)
 
-  -  *Abra um Pull Request
+ -  Abra um Pull Request
