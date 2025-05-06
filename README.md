@@ -1,15 +1,15 @@
 # 🎸 Guitar FIT — Seu App de Treino Musical
 
-**Guitar FIT** é um aplicativo mobile desenvolvido para guitarristas que desejam treinar de forma estruturada, acompanhando sua evolução musical com a mesma disciplina de uma rotina de academia. Com ele, é possível organizar exercícios técnicos, definir metas, controlar tempo de prática e visualizar o progresso ao longo do tempo.
+**Guitar FIT** é um aplicativo mobile em desenvolvimento para guitarristas que desejam treinar de forma estruturada, acompanhando sua evolução musical com a mesma disciplina de uma rotina de academia. Com ele, é possível organizar exercícios técnicos, definir metas, controlar tempo de prática e visualizar o progresso ao longo do tempo.
 
 ## 📱 Funcionalidades
 
 - 📋 **Cadastro de exercícios personalizados** (ex.: palhetada alternada, escalas, acordes, improvisação, repertório)
 - 🧠 **Organização por categorias** (Técnica, Teoria, Repertório, Criatividade, etc.)
-- ⏱️ **Controle de tempo e carga de treino**
-- 🎯 **Definição de metas por exercício**
-- 📈 **Histórico de treinos** com visão semanal/mensal
-- 🌗 **Interface com modo claro e escuro**
+- ⏱️ **Controle de tempo e carga de treino** 
+- 🎯 **Definição de metas por exercício** *(em desenvolvimento)*
+- 📈 **Histórico de treinos** com visão semanal/mensal  *(em desenvolvimento)*
+- 🌗 **Interface com modo claro e escuro**  
 - 📤 **Exportação de treinos em PDF** *(em desenvolvimento)*
 
 ## 🎓 Projeto de Extensão
